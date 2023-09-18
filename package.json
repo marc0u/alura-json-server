@@ -1,0 +1,12 @@
+{
+  "name": "alura-json-server",
+  "version": "1.0.0",
+  "description": "Fake JSON Server",
+  "main": "api/server.js",
+  "scripts": {
+    "start": "node api/server.js"
+  },
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
